@@ -15,7 +15,10 @@
 /seller/next.config.mjs
 /seller/package-lock.json
 
+/admin/jsonconfig.json
+/admin/next.config.mjs
 /admin/package-lock.json
 
 
 /server/package-lock.json
+/server/config/config.env
